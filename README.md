@@ -6,9 +6,7 @@
 </h1>
 
 <!-- Counter -->
-<p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
-</p>
+
 
 <p align="center">
   <b>I'm a passionate programmer who loves to code</b>
@@ -19,7 +17,8 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of [FOC-Maracena](https://www.fp-informatica.com/?gad_source=1&gad_campaignid=22757866554&gbraid=0AAAAAD_EyCDOtZaAHwYsdG9RY4yn59NOB&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp0CtzG4DsziMkq_FY8U24EkoeTIsVVlUR6nq603syKnWeIVMITjNPYaAlzgEALw_wcB).
-
+- ⚜️ I am a scout leader in Ilípula Group 670, in Pulianas.
+- 🏔️ I love going to the countryside and the forest, and walking for hours.
 
 
 
