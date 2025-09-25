@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
+  <img src="[https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg](https://github.com/Victormm-720/Victormm-720/blob/main/Memoji.png?raw=true)" width="500">
   <br>
   Hi, I'm Victor Maldonado Martin <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
