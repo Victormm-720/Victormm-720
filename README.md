@@ -26,44 +26,31 @@
   <b>Languages</b>
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
-  </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>Frontend</b>
+	<a href="[url](https://developer.mozilla.org/en-US/docs/Glossary/Python)" >
+    	<code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" 		height="40"/></code>
+  	</a>
   <br>
+	<a href="[url](https://developer.mozilla.org/en-US/docs/Glossary/PHP)" >
+    	<code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="Php" 				height="40"/></code>
+  	</a>
   <br>
-  <a href="url" >
-    <code><img src="https://skillicons.dev/icons?i=all" alt="Python" height="40"/></code>
-  </a>
-  
+	<a href="[url](https://developer.mozilla.org/en-US/docs/Glossary/Java)" >
+    	<code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java" 			height="40"/></code>
+  	</a>
   <br>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
+	<a href="[url](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" >
+    	<code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" 						alt="JavaScript" height="40"/></code>
+  	</a>
+  <br>
+	<a href="[url](https://developer.mozilla.org/en-US/docs/Web/HTML)" >
+    	<code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML" 					height="40"/></code>
+  	</a>
+  <br>
+	<a href="[url](https://developer.mozilla.org/en-US/docs/Web/CSS)" >
+    	<code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS" 					height="40"/>	</code>
+  	</a>
+	<br>  
+	<br>
 </p>
 
 <br>
@@ -73,56 +60,53 @@
   <b>Database</b>
   <br>
   <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
+	  <a href="https://www.mongodb.com/" target="_blank">
+	    <code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" 		height="40"/></code>
+	  </a>
   <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
+	  <a href="https://www.mysql.com/" target="_blank">
+	    <code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" 		height="40"/></code>
+	  </a>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <b>System & DevOps</b>
+  <b>System</b>
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
+	  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+	    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
+	  </a>
   <br>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
+	  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+	    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
+	  </a>
+  <br>
+	 <a href="https://en.wikipedia.org/wiki/Apple" target="_blank">
+	    <code><img src="[https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg](https://raw.githubusercontent.com/tandpfun/skill-				icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Apple-Dark.svg)" alt="Apple" height="40"/></code>
+	  </a>
+  <br>
+  <br>
 </p>
-
-<br>
-<br>
-
 <p align="center">
-  <b>Other</b>
+  <b>Technologies I used</b>
   <br>
   <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
+	  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+	    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
+	  </a>
+  <br>
+	  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+	    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
+	  </a>
+  <br>
+	 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+	    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Appel" height="40"/></code>
+	  </a>
+  <br>
+  <br>
 </p>
 
 <!-- My Activity -->
