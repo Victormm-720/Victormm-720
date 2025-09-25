@@ -18,11 +18,7 @@
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+- 📓 I'm a student of [FOC-Maracena](https://www.fp-informatica.com/?gad_source=1&gad_campaignid=22757866554&gbraid=0AAAAAD_EyCDOtZaAHwYsdG9RY4yn59NOB&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp0CtzG4DsziMkq_FY8U24EkoeTIsVVlUR6nq603syKnWeIVMITjNPYaAlzgEALw_wcB).
 
 <h2>Tech stack</h2>
 
@@ -54,18 +50,10 @@
   <b>Frontend</b>
   <br>
   <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
+  <a href="url" >
+    <code><img src="https://skillicons.dev/icons?i=all" alt="Python" height="40"/></code>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
+  
   <br>
   <a href="https://reactjs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
@@ -82,7 +70,7 @@
 <br>
 
 <p align="center">
-  <b>Backend</b>
+  <b>Database</b>
   <br>
   <br>
   <a href="https://nodejs.org" target="_blank">
