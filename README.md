@@ -20,6 +20,10 @@
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of [FOC-Maracena](https://www.fp-informatica.com/?gad_source=1&gad_campaignid=22757866554&gbraid=0AAAAAD_EyCDOtZaAHwYsdG9RY4yn59NOB&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp0CtzG4DsziMkq_FY8U24EkoeTIsVVlUR6nq603syKnWeIVMITjNPYaAlzgEALw_wcB).
 
+
+
+
+
 <h2>Tech stack</h2>
 
 <p align="center">
@@ -85,7 +89,7 @@
 	  </a>
   <br>
 	 <a href="https://en.wikipedia.org/wiki/Apple" target="_blank">
-	    <code><img src="[https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg](https://raw.githubusercontent.com/tandpfun/skill-				icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Apple-Dark.svg)" alt="Apple" height="40"/></code>
+	    <code><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Apple-Dark.svg" alt="Apple" height="40"/></code>
 	  </a>
   <br>
   <br>
